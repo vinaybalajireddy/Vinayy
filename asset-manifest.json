@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vinayy/static/css/main.e6c13ad2.css",
+    "main.js": "/Vinayy/static/js/main.85a2ef77.js",
+    "static/js/592.fdac6e07.chunk.js": "/Vinayy/static/js/592.fdac6e07.chunk.js",
+    "index.html": "/Vinayy/index.html",
+    "main.e6c13ad2.css.map": "/Vinayy/static/css/main.e6c13ad2.css.map",
+    "main.85a2ef77.js.map": "/Vinayy/static/js/main.85a2ef77.js.map",
+    "592.fdac6e07.chunk.js.map": "/Vinayy/static/js/592.fdac6e07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.85a2ef77.js"
+  ]
+}
